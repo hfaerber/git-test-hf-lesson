@@ -1,1 +1,1 @@
-# Testing out this lesson because its always weird and confusing  
+# Empty repo used for M2 Workflow PRs and GH Communication lesson examples
